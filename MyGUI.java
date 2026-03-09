@@ -87,7 +87,7 @@ public class MyGUI extends JFrame {
         });
         //for adding and printing or main panel
         add(mainPanel);
-        pack();                 // 🔥 asıl olay burada
+        pack();                
         setLocationRelativeTo(null);
         setVisible(true);
 
